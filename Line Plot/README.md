@@ -40,4 +40,4 @@ This project provides a complete workflow for loading, cleaning, and visualizing
 16) `.display()` - Display a Python object in all frontends.
 17) `.show()` - Display all open figures.
 
-TBC
+TBC...
