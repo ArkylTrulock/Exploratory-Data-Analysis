@@ -3,7 +3,7 @@
 A scatterplot is a versatile visualization tool that can represent both numerical and categorical data. While traditional scatterplots show the relationship between two numerical variables, categorical scatterplots visualize data points where one or both axes are based on categorical values. This project covers both types and walks through a comprehensive process for using scatterplots to analyze various datasets.
 
 ## Suitable Data Types for Scatterplots
--------------------------------------
+---------------------------------------
 
 ### Numerical Scatterplots
 --------------------------
